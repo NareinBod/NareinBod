@@ -1,10 +1,9 @@
-# 💫 About Me:
-🚀 Frontend Developer | Aspiring Machine Learning Engineer
-🎨 Currently interning as a Frontend Developer, building dynamic and responsive applications
-🤝 Excited to collaborate on Full-Stack projects
-🛠 Looking for guidance in backend programming to expand my skill set
-📚 Exploring the world of Machine Learning
-
+# 💫 About Me  
+- 🚀 Currently **interning as a Frontend Developer**, building dynamic and responsive applications  
+- 🎨 Working on a **Front-end web application**  
+- 🤝 Looking to **collaborate on Full-Stack projects**  
+- 🛠 Seeking **Software Development Internships for Fall 2025**  
+- 📚 Currently **learning Machine Learning**  
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@trackwizard) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/narein/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:boddapnn@mail.uc.edu) 
