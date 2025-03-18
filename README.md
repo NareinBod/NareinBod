@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm currently work on a Front-end web application<br>I'm looking to collaborate on Full stack projects<br>I'm looking for help with backend programming<br>I'm currently learning Machine learning<br>
+🚀 Frontend Developer | Aspiring Machine Learning Engineer
+🎨 Currently interning as a Frontend Developer, building dynamic and responsive applications
+🤝 Excited to collaborate on Full-Stack projects
+🛠 Looking for guidance in backend programming to expand my skill set
+📚 Exploring the world of Machine Learning
 
 
 ## 🌐 Socials:
