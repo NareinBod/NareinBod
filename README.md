@@ -1,5 +1,5 @@
 # 💫 About Me  
-- 🚀 Currently **interning as a Frontend Developer**, building dynamic and responsive applications  
+- 🚀 Currently **interning as a Software Applications Intern**, building dynamic and responsive applications  
 - 🎨 Working on a **Front-end web application**  
 - 🤝 Looking to **collaborate on Full-Stack projects**  
 - 🛠 Seeking **Software Development Internships for Fall 2025**  
