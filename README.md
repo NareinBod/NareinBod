@@ -1,25 +1,95 @@
-# 💫 About Me  
-- 🚀 Currently **interning as a Web Dev Intern**, building dynamic and responsive applications  
-- 🎨 Working on a **Front-end web application**  
-- 🤝 Looking to **collaborate on Full-Stack projects**  
-- 🛠 Seeking **Software Development Internships for Fall 2025**  
-- 📚 Currently **learning Machine Learning**  
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@trackwizard) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/narein/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:boddapnn@mail.uc.edu) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MATLAB](https://img.shields.io/badge/matlab-%23E16737.svg?style=for-the-badge&logo=mathworks&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-%230077B5.svg?style=for-the-badge&logo=microsoft-excel) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![OpenAPI](https://img.shields.io/badge/openapi-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NareinBod&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NareinBod&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NareinBod&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NareinBod&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
+<!-- Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&width=650&lines=Hi+I'm+Narein+Boddapati!+%F0%9F%91%8B;Software+Developer+%7C+Machine+Learning+Learner;Building+Web+%26+AI+Projects+with+Passion!">
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NareinBod&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me  
+- 🚀 **Research Assistant** building a Computer Vision Application  
+- 🤝 Love **collaborating** on Web, Software Development, and Computer Vision projects  
+- 🔍 Actively seeking **Software Development Internships — Summer 2026**  
+- 📚 Learning Deep Learning models & implementing them into real-world products  
+- 🌎 Visit my portfolio: **https://nareinboddapati.vercel.app**
+
+---
+
+## 🌐 Connect with Me
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/trackwizard)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narein/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:boddapnn@mail.uc.edu)
+
+---
+
+# 🧠 Skills & Tools
+
+### 🖥️ Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=Mathworks&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-1D6F42?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00.svg?style=for-the-badge&logo=labview&logoColor=black)
+
+### 🚀 Frameworks & Libraries
+![Angular](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/openapi-6BBF47?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+### 🔧 Developer Tools
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white)
+![SourceTree](https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
+![Swagger](https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+# 📊 GitHub Stats & Activity
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=NareinBod&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=NareinBod&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NareinBod&theme=tokyonight&hide_border=false&layout=compact)
+
+</div>
+
+---
+
+## 🕹️ Animated Pac-Man Contribution Graph  
+> ⚠️ Update username after setup (instructions below)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NareinBod&theme=tokyonight&no-frame=true&column=3)
+
+---
+
+<div align="center">
+
+📈 Profile Visits  
+[![](https://visitcount.itsvg.in/api?id=NareinBod&label=Profile%20Views&color=6&icon=4&pretty=true)](https://visitcount.itsvg.in)
+
+</div>
+
+---
+
+<!-- Designed with ❤️ by ChatGPT for Narein -->
