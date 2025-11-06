@@ -67,17 +67,6 @@
 
 ---
 
-## 🕹️ Animated Pac-Man Contribution Graph  
-> ⚠️ Update username after setup (instructions below)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NareinBod&theme=tokyonight&no-frame=true&column=3)
 
@@ -89,7 +78,3 @@
 [![](https://visitcount.itsvg.in/api?id=NareinBod&label=Profile%20Views&color=6&icon=4&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
-
----
-
-<!-- Designed with ❤️ by ChatGPT for Narein -->
