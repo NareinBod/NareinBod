@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&width=650&lines=Hi+I'm+Narein+Boddapati!+%F0%9F%91%8B;Software+Developer+%7C+Machine+Learning+Learner;Building+Web+%26+AI+Projects+with+Passion!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&width=650&lines=Hi+I'm+Narein+Boddapati!+%F0%9F%91%8B;">
 </div>
 
 ---
